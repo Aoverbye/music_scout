@@ -1,0 +1,10 @@
+name: shiny_dashboard
+title:
+username: aoverbye
+account: aoverbye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16380855
+bundleId: 11408185
+url: https://aoverbye.shinyapps.io/shiny_dashboard/
+version: 1
